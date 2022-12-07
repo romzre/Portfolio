@@ -1,0 +1,67 @@
+.section
+{
+    width: 95%;
+    margin: 0% auto;
+
+}
+
+.titleSection
+{
+    padding: 15px;
+    text-align: center;
+    font-size: 4rem;
+    overflow: hidden;
+}
+
+.contBlocAbout
+{
+    display: flex;
+    gap: 25px;
+    padding: 15px;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+.bloc1
+{
+    width: 30%;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    padding-left: 80px;
+}
+.contTitleh
+{
+    width: 100%;
+}
+.contTitleh h4
+{
+    text-align: center;
+    font-size: 3rem;
+}
+.contTitleh h5
+{
+    text-align: center;
+}
+.contComment
+{
+    display: flex;
+    flex-direction: column;
+    gap: 65px;
+    font-size: 1.7rem;
+    text-align: justify;
+}
+.bloc2
+{
+    width: 65%;
+    padding: 25px;
+    background-color: rgb(81, 81, 81);
+}
+.bloc2 img
+{
+    position: relative;
+    width: 80%;
+    top: 5%;
+    box-shadow: 18px -18px 0px var(--white);
+}

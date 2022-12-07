@@ -1,0 +1,101 @@
+@media screen and (max-width:  1250px) {
+
+    nav
+    {
+        font-size:3rem;
+        margin-bottom: 50px;
+        width: 100%;
+    }
+    nav p 
+    {
+        text-align: center;
+    }
+    .blocHome
+    {
+        padding-left: 5%;
+    }
+    h1 div span 
+    {
+        font-size: 1.7rem;
+    }
+    .blocHome h2
+    {
+        font-size: 1.7rem;
+    } 
+    .contResume
+    {
+        font-size: 1rem;
+    }
+    .quote
+    {
+        font-size: 3rem;
+        margin: 50px;
+    }
+    .box-scroll img
+    {
+        width: 80px;
+        display: none;
+    
+    }    
+    .section
+    {
+        width: 100%;
+    }
+    .titleSection
+    {
+        font-size: 2rem;
+        margin-top: 60px;
+    }
+    .contBlocAbout
+    {
+        flex-direction: column;
+        padding: 10px;
+    }
+    .bloc1
+    {
+        width: 100%;
+        padding: 10px;
+        padding-left: 0px;
+    }
+   
+    .contTitleh h4
+    {
+        font-size: 1.5rem;
+    }
+
+    .contComment
+    {
+        font-size: 1.2rem;
+        gap: 25px;
+        margin-top: 50px;
+    }
+    .bloc2
+    {
+        width: 95%;
+        margin: 0% auto;
+    }
+    .bloc2 img
+    {
+    position: relative;
+    width: 90%;
+    }
+
+    .slide.active h3
+    {
+        font-size: 1.2rem;
+    }
+    .MsgEnd
+    {
+        font-size: 1.6rem;
+    }
+
+}
+
+
+
+
+
+
+@media screen and (max-width:  800px) {
+    
+}
